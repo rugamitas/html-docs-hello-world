@@ -7,7 +7,7 @@ products:
   - Azure Web Apps
 ---
 
-# HTML Hello World
+# HTML Web App - Digital Government
 
 This sample demonstrates a tiny HTML app for [App Service](https://docs.microsoft.com/azure/app-service).
 
