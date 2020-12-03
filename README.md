@@ -1,5 +1,5 @@
 ---
-topic: HTML Hello World
+topic: HTML Web App
 languages:
   - HTML
 products:
@@ -9,7 +9,7 @@ products:
 
 # HTML Hello World
 
-This sample demonstrates a tiny Hello World HTML app for [App Service](https://docs.microsoft.com/azure/app-service).
+This sample demonstrates a tiny HTML app for [App Service](https://docs.microsoft.com/azure/app-service).
 
 # Contributing
 
